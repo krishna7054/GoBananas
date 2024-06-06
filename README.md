@@ -14,13 +14,13 @@ GoBananas is a simple React application that fetches data from the JSONPlacehold
 
 ## Demo
 
-You can view the deployed application [here](https://your-vercel-app-url).
+You can view the deployed application [here](https://stalwart-sundae-979aea.netlify.app).
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/go-bananas.git
+   git clone https://github.com/krishna7054/GoBananas.git
    cd go-bananas
     ```
 
